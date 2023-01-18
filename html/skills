@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="../style.css">
+    <title>Portfolio</title>
+</head>
+<body>
+    <nav class="nav">
+        <div class="container">
+            <div class="nav-row">
+                <a href="./index.html" class="logo"><strong>Shukurzhon's</strong> Portfolio</a>
+                <ul class="nav-list">
+                    <li class="nav-list__item"><a href="./index.html" class="nav-list__link ">Projects</a></li>
+                    <li class="nav-list__item"><a href="./skills.html" class="nav-list__link nav-list__link--active">Skills</a></li>
+                    <li class="nav-list__item"><a href="./contacts.html" class="nav-list__link">Contacts</a></li>
+
+                </ul>
+            </div>
+
+        </div>
+    </nav>
+
+
+
+<main class="section">
+    <div class="container">
+        
+            <h1 class="title-1">Skills and Hobbies</h1>
+
+            <ul class="content-list">
+                <li class="content-list__item">
+                    <h2 class="title-2">Experienced in:</h2>
+                    <p>HTML,CSS,Basics of javaScript<br> and BootStrap,WordPress, Figma,Adobe Photoshop.</p>
+                </li>
+
+                <li class="content-list__item">
+                    <h2 class="title-2">I want to leart:</h2>
+                    <p>NodeJS,React.JS,SASS,OOP,GIT <br>and many other things!</p>
+                </li>
+            
+
+            <li class="content-list__item">
+                <h2 class="title-2">Languages</h2>
+                <p>Czech(B2),English(B1),Uzbek(native),Russian(native)</p>
+            </li>
+
+            <li class="content-list__item">
+                <h2 class="title-2">Hobbies</h2>
+                <p>I study European and Czech culture, Drawing and painting, Travelling</p>
+            </li>
+
+        </ul>
+
+            
+        </div>
+    
+</main>
+
+<footer class="footer">
+    <div class="container">
+        <div class="footer__wrapper">
+            <ul class="social">
+
+                <li class="social__item"><a href="https://www.facebook.com/profile.php?id=100048326533096"><img src="../icons/facebook.svg" alt=""></a></li>
+                <li class="social__item"><a href="https://www.instagram.com/spottyblotty/"><img src="../icons/instagram.svg" alt=""></a></li>
+                <li class="social__item"><a href="https://github.com/SpottyBlotty"><img src="../icons/gitHub.svg" alt=""></a></li>
+                <li class="social__item"><a href="https://www.linkedin.com/in/shukurzhon-mazhidov-b72820262/"><img src="../icons/linkedIn.svg" alt=""></a></li>
+
+            </ul>
+            <div class="copyright">
+                <p>© 2023 shukurzhon's portfolio.com</p>
+            </div>
+        </div>
+    </div>
+</footer>
+
+
+
+</body>
+</html>
